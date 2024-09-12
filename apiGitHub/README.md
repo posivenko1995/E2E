@@ -4,3 +4,4 @@
         token = {''} - пример:token = {'Authorization': 'bearer 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'}
         usernameGitHub = "" - пример :usernameGitHub = "usernamegithub"
         namerepo = "" - пример:namerepo = "namerepositories"
+   3. Сценарий теста положительны. Oтвет метода 

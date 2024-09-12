@@ -12,6 +12,6 @@
 
      namerepo = "" - пример: namerepo = "namerepositories"
 
-4.Запустить код(файл "apiGitHub.py").
+ 4.Запустить код(файл "apiGitHub.py").
 
- Сценарий теста положительны. Oтвет на метод "post" и "get":сущности, ответ на метод "delete" "Response 204".
+  Сценарий теста положительны. Oтвет на метод "post" и "get":сущности, ответ на метод "delete" "Response 204".
